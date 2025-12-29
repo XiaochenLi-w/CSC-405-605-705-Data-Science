@@ -8,7 +8,7 @@ last_modified_date: true
 
 **Instructor:** [Xiaochen Li](https://xiaochenli-w.github.io/)
 
-**Lectures:** Mon/Wed 12:30-13:45, Petty Building, Room 224
+**Lectures:** Mon/Wed 12:30-13:45, Petty Building, Room 303
 
 **Office:** Petty 153
 
@@ -124,7 +124,7 @@ o Graduate Students report submission
 
    The project will progress alongside the course schedule, and the instructor will provide reminders and guidance on project milestones during relevant class sessions. Each group is required to submit a final written report and deliver an in-class presentation of approximately 15–20 minutes.
 
-   Detailed project requirements and evaluation criteria are available at: **[link]**.
+   Detailed project requirements and evaluation criteria are available at: **[link](CSC 405605705-Spring 2026-Group Project.md)**.
 
 5. **[Research Report: 10% ( Graduate Students Only)]**
 
@@ -150,3 +150,4 @@ of a loved one. It is OK TO ASK FOR HELP!
 - Spartan Well-Being
 - Campus Violence Response Center (336-334-9839)
 - Spartan Recovery offers recovery support services (SRP@uncg.edu)
+
