@@ -3,7 +3,7 @@ title: Home
 nav_order: 1
 ---
 
-# CSC 481/681 — Principles of Computer Security (Spring 2026)
+# CSC 405/605/705 — Data Science (Spring 2026)
 
 Welcome to the course website.
 
@@ -16,7 +16,8 @@ Welcome to the course website.
 **Office Hours：** Tuesday 2:00-5:00 pm
 
 ## 📌 Quick Links
-- [Syllabus](CSC481681-Spring 2026-Syllabus.md)
-- [Schedule](CSC481681-Spring 2026-Schedule.md)
-- [Assignments](CSC481681-Spring 2026-Assignments.md)
+- [Syllabus](CSC 405605705-Spring 2026-Syllabus.md)
+- [Schedule](CSC 405605705-Spring 2026-Schedule.md)
+- [Assignments](CSC 405605705-Spring 2026-Assignments.md)
+- [Project](CSC 405605705-Spring 2026-Group Project.md)
 
