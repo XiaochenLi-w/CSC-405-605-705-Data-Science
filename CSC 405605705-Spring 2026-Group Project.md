@@ -179,3 +179,4 @@ The use of AI tools is **allowed** when used responsibly for **learning purposes
 - Synthetic Credit Risk Dataset 
 
   https://www.kaggle.com/datasets/emirhanakku/synthetic-credit-risk-dataset-extreme-imbalance
+You can download all datasets [here](project_datasets.zip).
